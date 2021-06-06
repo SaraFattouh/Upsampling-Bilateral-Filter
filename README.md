@@ -21,4 +21,4 @@ The result can be found in the build directory
 
 Image pairs input could be found in Middlebury stereo dataset https://vision.middlebury.edu/stereo/data/ , or any of your choice.
  
-![plot] https://github.com/SaraFattouh/Upsampling-Bilateral-Filter/blob/main/upsampling.jpg
+![plot] (https://github.com/SaraFattouh/Upsampling-Bilateral-Filter/blob/main/upsampling.jpg) 
