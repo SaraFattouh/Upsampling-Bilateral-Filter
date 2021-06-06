@@ -7,7 +7,7 @@ Parts of the program:
 - There is a CMakeLists.txt file for compilation.
 - The main.cpp file contains:
   -  Implementation of a bilateral filter. 
-  -  Some comparison metrics that can be used for comparing images like SSD, mse, rmse and psnr. 
+  -  Some comparison metrics that can be used for comparing images like SSD, MSE, RMSE and PNSR. 
   -  A function that converts a bilateral filter to Guided Joint bilateral filter for guided image upsampling. 
  
  The main function takes as input:
