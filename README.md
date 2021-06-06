@@ -16,6 +16,6 @@ Parts of the program:
   - σs: first parameter of the bilateral filter, spatial filter kernel 
   - σr: second  parameter of the bilateral filter, spectral filter kernel AKA range kernel
 
-- The result can be found in the build directory 
+The result can be found in the build directory 
   - It contains the resulting upsampled disparity maps obtained by running the Bilateral filter on the image with combinations, 16 in total, of four different levels of sigmas for the spatial and four for the spectral filter.
  
