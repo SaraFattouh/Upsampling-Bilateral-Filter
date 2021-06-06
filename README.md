@@ -1,5 +1,5 @@
 # Upsampling-Bilateral-Filter
-Apply the filter to upsample a depth image, guided by an RGB image.
+Apply a bilateral filter to upsample a depth image, guided by an RGB image.
 
 Upsampling an input image (increasing of the spatial resolution) using a bilateral filter which is a non-linear, edge-preserving, and noise-reducing smoothing filter. It replaces the intensity of each pixel with a weighted average of intensity values from nearby pixels. This weight is based on a Gaussian distribution. These weights depend not only on Euclidean distance of pixels, but also on the radiometric differences (such as color intensity). This preserves sharp edges.
 
