@@ -19,5 +19,5 @@ Parts of the program:
 The result can be found in the build directory 
   - It contains the resulting upsampled disparity maps obtained by running the Bilateral filter on the image with combinations, 16 in total, of four different levels of sigmas for the spatial and four for the spectral filter.
 
-Image pairs input could be found in https://vision.middlebury.edu/stereo/data/
+Image pairs input could be found in Middlebury stereo dataset https://vision.middlebury.edu/stereo/data/ , or any of your choice.
  
